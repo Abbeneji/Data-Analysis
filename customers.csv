@@ -1,0 +1,7 @@
+cust_id,name,email,age,signup_date
+1,Alice,alice@mail.com,25.0,2020-05-01
+2,Bob,,,2021-07-15
+3,Charlie,charlie@mail.com,17.0,2019-11-20
+4,Diana,diana@mail.com,33.0,2022-03-05
+5,Evan,evan@mail.com,19.0,
+6,,frank@mail.com,45.0,2018-08-09
